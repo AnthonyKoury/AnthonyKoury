@@ -3,7 +3,7 @@
 
 <p align="left"> <a href="https://twitter.com/anthonykoury" target="blank"><img src="https://img.shields.io/twitter/follow/anthonykoury?logo=twitter&style=for-the-badge" alt="anthonykoury" /></a> </p>
 
-- 👯 I’m looking to collaborate on **Open Source Projects**
+- 👯 I’m looking to collaborate on **Open Source Projects** and find **New Opportunities** 
 
 - 💬 Ask me about **Tech and Finance**
 
